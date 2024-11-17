@@ -20,7 +20,6 @@ The objective of this project is to design and implement a scalable data warehou
   - numpy: Numerical operations.
   - matplotlib: Data visualization.
   - seaborn: Statistical visualizations.
-  - yfinance: Financial data source
   
 ## Installation
 
