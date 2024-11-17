@@ -50,4 +50,4 @@ Contributions are welcome!
 
 **License**
 
-This project is licensed under the Apache License. See the LICENSE file for more details.
+* This project is licensed under the Apache License. See the LICENSE file for more details.
