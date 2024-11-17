@@ -1,5 +1,4 @@
 # object-detection
-<<<<<<< task1-2
 ## Overview
 * This project Involve leveraging data scraped from web platforms and Telegram channels, the project aims to centralize disparate data into a comprehensive and scalable data warehouse. Additionally, object detection capabilities powered by YOLO (You Only Look Once) will be integrated to extract visual insights, further enriching the data analysis process.
 
@@ -53,4 +52,3 @@ Contributions are welcome!
 
 This project is licensed under the Apache License. See the LICENSE file for more details.
 =======
->>>>>>> main
