@@ -48,3 +48,6 @@ The objective of this project is to design and implement a scalable data warehou
 
 Contributions are welcome!
 
+**License**
+
+This project is licensed under the Apache License. See the LICENSE file for more details.
