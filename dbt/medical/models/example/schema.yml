@@ -1,21 +1,25 @@
-
 version: 2
 
-models:
-  - name: my_first_dbt_model
-    description: "A starter dbt model"
-    columns:
-      - name: id
-        description: "The primary key for this table"
-        data_tests:
-          - unique
-          - not_null
+sources:
+  - name: public
+    schema: public
+    tables:
+      - name: telegram_medical_data
 
-  - name: my_second_dbt_model
-    description: "A starter dbt model"
+models:
+  - name: medical_transformed
+    description: "This model transforms raw medical data by extracting location name after @"
     columns:
-      - name: id
-        description: "The primary key for this table"
-        data_tests:
+      - name: Channel Title
+        description: "The name of the channel."
+        tests:
+          - not_null
           - unique
+      - name: StockCode
+        description: "Unique code for the advertised stock."
+        tests:
+          - not_null
+      - name: Location
+        description: "Location of the product."
+        tests:
           - not_null
