@@ -1,0 +1,8 @@
+\copy public.md ("Channel Title", "Channel Username", "ID", "Message", "Date", "Media Path") FROM 'C:/Users/Bereket/Desktop/object-detection/data/clean_MergedData_no_newlines.csv' WITH CSV QUOTE '"' DELIMITER ',' ESCAPE '"' HEADER;
+
+
+
+
+
+
+\copy public.md ("Channel Title", "Channel Username", "ID", "Message", "Date", "Media Path") FROM 'C:/Users/Bereket/Desktop/object-detection/data/output_clean_utf8.csv' WITH CSV QUOTE '"' DELIMITER ',' ESCAPE '"' HEADER ENCODING 'WIN1252';
