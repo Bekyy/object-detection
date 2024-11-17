@@ -1,0 +1,62 @@
+2024-10-10 19:10:32,483 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-10 19:10:34,647 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-10 19:10:35,943 - INFO - Phone migrated to 4
+2024-10-10 19:10:36,148 - INFO - Reconnecting to new data center 4
+2024-10-10 19:10:36,898 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2024-10-10 19:10:36,900 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-10-10 19:10:36,901 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-10 19:10:38,902 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-10 19:11:39,226 - ERROR - Error in main function: 3 consecutive sign-in attempts failed. Aborting
+2024-10-10 19:11:43,472 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-10 19:11:43,596 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-10 19:12:23,158 - ERROR - Error in main function: 3 consecutive sign-in attempts failed. Aborting
+2024-10-10 19:13:30,857 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-10 19:13:31,044 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-10 19:24:24,236 - INFO - System clock is wrong, set time offset to 0s
+2024-10-10 19:24:24,404 - INFO - System clock is wrong, set time offset to 0s
+2024-10-10 19:24:54,055 - ERROR - Error in main function: 3 consecutive sign-in attempts failed. Aborting
+2024-10-10 19:24:59,080 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-10 19:24:59,275 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-10 19:26:25,542 - ERROR - Error in main function: 3 consecutive sign-in attempts failed. Aborting
+2024-10-10 19:47:19,760 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-10 19:47:19,896 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-10 19:47:52,563 - ERROR - Error in main function: 3 consecutive sign-in attempts failed. Aborting
+2024-10-10 20:20:08,105 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-10 20:20:10,115 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-10 20:20:11,410 - INFO - Phone migrated to 4
+2024-10-10 20:20:11,720 - INFO - Reconnecting to new data center 4
+2024-10-10 20:20:11,990 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2024-10-10 20:20:11,991 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-10-10 20:20:11,992 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-10 20:20:14,531 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-10 20:21:03,005 - INFO - Client started successfully.
+2024-10-10 20:21:03,148 - WARNING - No last ID file found for @DoctorsET. Starting from 0.
+2024-10-10 20:21:03,900 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 20:21:05,497 - INFO - Downloaded media for message ID 864.
+2024-10-10 20:21:05,497 - INFO - Processed message ID 864 from @DoctorsET.
+2024-10-10 20:21:12,713 - INFO - Saved last processed ID 864 for @DoctorsET.
+2024-10-10 20:21:12,714 - INFO - Scraped data from @DoctorsET.
+2024-10-10 20:25:53,656 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-10 20:25:53,829 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-10 20:25:55,369 - INFO - Client started successfully.
+2024-10-10 20:26:04,336 - INFO - Saved last processed ID 864 for @DoctorsET.
+2024-10-10 20:26:04,338 - INFO - No new messages found for @DoctorsET.
+2024-10-10 20:26:04,338 - INFO - Scraped data from @DoctorsET.
+2024-10-10 20:32:51,172 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-10 20:32:51,312 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-10 20:32:52,749 - INFO - Client started successfully.
+2024-10-10 20:32:52,953 - WARNING - No last ID file found for @lobelia4cosmetics. Starting from 0.
+2024-10-10 20:32:53,482 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 20:32:54,026 - INFO - Downloaded media for message ID 12411.
+2024-10-10 20:32:54,026 - INFO - Processed message ID 12411 from @lobelia4cosmetics.
+2024-10-10 20:33:17,469 - INFO - Saved last processed ID 12411 for @lobelia4cosmetics.
+2024-10-10 20:33:17,470 - INFO - Scraped data from @lobelia4cosmetics.
+2024-10-10 23:56:53,462 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-10 23:56:53,623 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-10 23:56:55,519 - INFO - Client started successfully.
+2024-10-10 23:56:55,657 - WARNING - No last ID file found for @EAHCI. Starting from 0.
+2024-10-10 23:56:56,589 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 23:56:57,145 - INFO - Downloaded media for message ID 2396.
+2024-10-10 23:56:57,145 - INFO - Processed message ID 2396 from @EAHCI.
+2024-10-10 23:57:16,675 - INFO - Saved last processed ID 2396 for @EAHCI.
+2024-10-10 23:57:16,676 - INFO - Scraped data from @EAHCI.
