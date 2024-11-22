@@ -3,4 +3,6 @@ numpy
 seaborn
 telethon
 dotenv
-#psycopg2
+torch
+opencv-python
+pillow
